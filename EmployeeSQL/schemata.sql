@@ -1,5 +1,4 @@
--- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
--- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
+-- Starter code exported from QuickDBD: https://www.quickdatabasediagrams.com/
 
 -- Unit 09 Schema
 -- UPENN-VIRT-DATA-PT-06-2023-U-LOLC-MTTH Module 9 Challenge
