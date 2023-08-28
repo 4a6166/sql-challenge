@@ -6,7 +6,7 @@ Bootcamp: UPENN-VIRT-DATA-PT-06-2023-U-LOLC-MTTH Module 9 Challenge: SQL Challen
 This database includes simulated data from Pewlett Hackard (a fictional company) describing employees during the 1980s and 1990s.
 The base data consists of six CSV files that have been uploaded to a database as represented by the following diagram,
 
-![](EmployeeSQL/ERD.svg, "Database Diagram")
+![](EmployeeSQL/ERD.svg?raw=true)
 
 __NOTE:__ Tables `dept_manager` and `dept_emp` actually have a composite Primary Key of `dept_no_emp_no` and `emp_no_dept_no`, respectively. This case is not covered by the capabilities of [Quick Database Diagrams](www.quickdatabasediagrams.com).
 
