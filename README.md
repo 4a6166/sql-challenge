@@ -28,7 +28,7 @@ All challenge files are under the `EmployeeSQL` directory.
 Graded files are as follows:
 - The file containing the table schemata is entitled [schemata.sql](EmployeeSQL/schemata.sql).
 - The file containing the queries to answer the above data analysis questions is entitled [analysis.sql](EmployeeSQL/analysis.sql).
-- The image file of the ERD is entitiled [ERD.svg](EmployeeSQL/ERD.svg).
+- The image file of the ERD is entitiled [ERD.svg](EmployeeSQL/ERD.svg?raw=true).
 
 Additional files include the data files under the `data` directory and a text file for generating the ERD via [Quick Database Diagrams](www.quickdatabasediagrams.com).
 
